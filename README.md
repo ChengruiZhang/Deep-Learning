@@ -1,2 +1,2 @@
-# Deep-Learning--CS231-CS280-
-ShanghaiTech CS280 Deep Learning Course (Stanford CS231)
+# Deep-Learning
+ShanghaiTech CS280 Deep Learning Course (Stanford CS231) in 2019

@@ -1,0 +1,12 @@
+nohup: ignoring input
+[W 12:34:17.654 NotebookApp] Collisions detected in /root/.jupyter/jupyter_notebook_config.py and /root/.jupyter/jupyter_notebook_config.json config files. /root/.jupyter/jupyter_notebook_config.json has higher priority: {
+      "NotebookApp": {
+        "password": "'123456' ignored, using 'sha1:2ebd2fb4a5b9:d2fe18a0c4c26c336206bad1771e04665751b0c4'"
+      }
+    }
+[I 12:34:22.499 NotebookApp] The port 35475 is already in use, trying another port.
+[I 12:34:22.621 NotebookApp] Serving notebooks from local directory: /root
+[I 12:34:22.621 NotebookApp] The Jupyter Notebook is running at:
+[I 12:34:22.621 NotebookApp] http://cs280-zhangchr-admin:35476/
+[I 12:34:22.621 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:34:22.663 NotebookApp] No web browser found: could not locate runnable browser.
